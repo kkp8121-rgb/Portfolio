@@ -6,6 +6,8 @@
 - **이메일**: gustjd8121@gmail.com
 - **작성 기준일**: 2026-05-21
 
+> 전체 이력을 한 파일로 빠르게 보려면 [integrated-portfolio.md](./integrated-portfolio.md)를 먼저 확인.
+
 ---
 
 ## 프로젝트 목록 (시간순)
@@ -97,6 +99,7 @@
 ```
 BHS_Portfolio/
 ├── README.md                       ← 이 파일 (인덱스)
+├── integrated-portfolio.md         ← 통합 포트폴리오 (한눈에 보기)
 ├── uplus-avatar-client.md          ← LG U+ 메타버스 아바타 빌더
 ├── SlimeHunter.md                  ← 8-Bit Games 협업
 ├── BowwowDefence.md                ← 자체 IP 2D 디펜스
